@@ -1,0 +1,83 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+.container {
+  
+  min-height: 50px;
+  width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+.mini-container {
+
+  min-height: 50px;
+  width: 800px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+.logo {
+  width: 94px;
+}
+.navbar-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navbar-links {
+  display: flex;
+  gap: 30px;
+}
+.navbar-link {
+  font-size: 14px;
+  color: #353732;
+}   
+.header {
+  margin: 105px 0;
+}
+.header h2 {
+  margin-top: 20px;
+  font-size: 36px;
+  font-weight: 400;
+}
+.navbar2 {
+
+height: 1191px;
+width: 768px;
+margin: 0 auto;
+}
+.navbar2-tec {
+  margin-left: 517px;
+  margin-top: -20px;
+}
+.navbar2-tech {
+  margin-left: 517px;
+  margin-top: -1170px;
+}
+.orta-content {
+  width: 768px;
+  height: 187px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  
+}
+
+.pastki-content {
+  width: 800px;
+  height: 2536px;
+}
+.foter {
+  
+  width: 800px;
+  height: 156px;
+  margin: 0 auto;
+  padding-left: 16px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
